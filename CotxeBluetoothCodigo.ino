@@ -1,3 +1,8 @@
+// Universitat Politècnica de Catalunya (UPC)
+// Enginyeria de Sistemes Audiovisuals (EET)
+// Projectes d'Enginyeria
+// Autors: Adrián Sosa, Xavier Serrat, Sergio Tomás, Antonio J. Urbano
+
 char valor=' ';            // Variable de recepción del dispositivo movil a la placa bluetooth
 
 const char VLR_MES= 'a'; // Valor para acelerar
